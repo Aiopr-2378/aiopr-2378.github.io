@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aiopr-2378.github.io/</id>
-    <title>Gridea</title>
-    <updated>2022-06-25T06:00:47.973Z</updated>
+    <title>Aiopr-2378的秘密基地</title>
+    <updated>2022-06-25T07:14:18.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aiopr-2378.github.io/"/>
     <link rel="self" href="https://aiopr-2378.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>“时光，我们握个手吧！”</subtitle>
     <logo>https://aiopr-2378.github.io/images/avatar.png</logo>
     <icon>https://aiopr-2378.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, Aiopr-2378的秘密基地</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://aiopr-2378.github.io/post/hello-gridea/</id>
